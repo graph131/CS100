@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\test\\CS100\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA08070-B8A5-48A1-95AD-DFF8E9D10A1F}|CS100\\CS100.vcxproj|D:\\code\\test\\CS100\\CS100\\giteetest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AA08070-B8A5-48A1-95AD-DFF8E9D10A1F}|CS100\\CS100.vcxproj|solutionrelative:CS100\\giteetest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "giteetest.c",
+              "DocumentMoniker": "D:\\code\\test\\CS100\\CS100\\giteetest.c",
+              "RelativeDocumentMoniker": "CS100\\giteetest.c",
+              "ToolTip": "D:\\code\\test\\CS100\\CS100\\giteetest.c*",
+              "RelativeToolTip": "CS100\\giteetest.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-19T14:21:00.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
